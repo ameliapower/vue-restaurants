@@ -1,0 +1,19 @@
+body{
+	font-family: 'Gotham-Medium';
+	color: #444;
+	margin:0;
+	padding:0;
+}
+
+@font-face {
+  font-family: 'Gotham-Medium';
+  src:  url('../assets/Gotham-Medium.woff') format('woff'),
+        url('../assets/Gotham-Medium.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+input, button{
+	outline: none
+}
+
